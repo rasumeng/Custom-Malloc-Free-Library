@@ -1,0 +1,13 @@
+Running Benchmark test
+Execution time: 0.0045 seconds
+
+heap management statistics
+mallocs:	3002
+frees:		3001
+reuses:		2000
+grows:		1002
+splits:		2000
+coalesces:	2000
+blocks:		1002
+requested:	532096
+max heap:	540144

@@ -1,0 +1,2 @@
+Running Benchmark test
+Execution time: 0.0003 seconds
